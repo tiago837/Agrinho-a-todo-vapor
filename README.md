@@ -1,0 +1,1 @@
+O objetivo do jogo é exterminar as ervas daninhas com uma D20, tem somente 30 segundos para exterminar as 10, conforme for exterminando os pontos vão aumentando, tente fazer o maximo de pontos antes do tempo acabar.
